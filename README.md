@@ -14,7 +14,7 @@ O projeto **HackaTruck** é uma iniciativa que combina tecnologia e mobilidade, 
 
 ### Tecnologias Envolvidas
 Embora o repositório específico no GitHub não forneça detalhes sobre a stack tecnológica, projetos semelhantes geralmente utilizam:
-- **Linguagens de Programação**: Python, JavaScript, entre outras.
+- **Linguagens de Programação**: Swift.
 - **Frameworks e Ferramentas**: Ferramentas de desenvolvimento ágil e plataformas de colaboração.
 
 ### Conclusão
